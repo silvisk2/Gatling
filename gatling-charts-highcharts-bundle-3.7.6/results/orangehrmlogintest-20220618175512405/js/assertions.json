@@ -1,0 +1,10 @@
+{
+  "simulation": "OrangeHRMLoginTest",
+  "simulationId": "orangehrmlogintest",
+  "start": 1655574912405,
+  "description": "",
+  "scenarios": ["OrangeHRMLoginTest"],
+  "assertions": [
+
+  ]
+}
